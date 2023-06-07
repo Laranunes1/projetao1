@@ -1,0 +1,230 @@
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  list-style: none;
+  background-color: #ffffff;
+}
+
+.cabecalho {
+  position:center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 24px;
+  background-color: white;
+  align-content: center;
+  word-spacing: 20px
+  left: 0; 
+  right: 0;
+  margin: auto;
+  
+}
+
+.links {
+    color: #FF33AD;
+    word-spacing: 20px;
+ 
+}
+
+.icons {
+    color: #FF33AD;
+    word-spacing: 10px;
+    
+}
+
+.user {
+    color: #FF33AD;
+}
+
+.colecao {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.colec {
+    margin: auto;
+    display: block;
+    justify-content: center;
+}
+
+.nomes {
+ display: flex;
+ justify-content: space-around;
+ display: inline-block;
+ color: #FF33AD;
+}
+
+.meio {
+ background-color: #FF33AD;
+}
+
+.prom {
+    color: white;
+    text-align: center;
+
+}
+
+.skipper {
+    position: absolute;
+    width: 207px;
+    height: 50px;
+    left: 465px;
+    top: 1249px;
+    border-color: #ffeef8;
+}
+
+.ken {
+    position: absolute;
+    width: 207px;
+    height: 50px;
+    left: 1105px;
+    top: 1249px;
+    border-color: #ffeef8;
+    
+
+}
+
+.sereia {
+        position: absolute;
+        width: 207px;
+        height: 50px;
+        left: 1120px;
+        top: 1620px;
+        border-color: #ffeef8;
+}
+
+.dream {
+        position: absolute;
+        width: 207px;
+        height: 50px;
+        left: 450px;
+        top: 1620px;
+        border-color: #ffeef8;
+}
+
+
+
+
+.number {
+    color: #FF33AD;
+}
+
+footer {
+    align-items: center;
+}
+
+/*justify-content: space-around;
+  padding-top: 1rem;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  top: 0;
+  right: 0;
+  z-index: 1000;
+  position: fixed;
+  transition: all .35% ease;
+  background-color:white;
+  padding: 14 px 14%;
+  */
+
+  /*
+
+  *{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+  list-style: none;
+  }
+
+
+.cabecalho {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 24px;
+  background-color: white;
+  letter-spacing: 1px;
+  
+  
+}
+
+.nomes {
+ display: flex;
+ justify-content: flex-start;
+}
+
+.container {
+    position: absolute;
+    right: 550px;
+    top: 50px;
+
+}
+
+ .barra-barbie{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+ }
+
+ .colecao{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+ }
+
+ .bonecos{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+ }
+
+.icon-coracao {
+    color: #FF33AD;
+}
+
+.icon-bag {
+    color: #FF33AD;
+}
+
+.icon-pesquisa {
+    color: #FF33AD;
+}
+
+.icon-user {
+    color: #FF33AD;
+}
+
+.meio {
+ background-color: #FF33AD;
+}
+
+.skipper {
+position: absolute;
+width: 207px;
+height: 50px;
+left: 330px;
+top: 1150px;
+
+background: #FFD3E6;
+box-shadow: 0px 3.25982px 3.25982px rgba(0, 0, 0, 0.25);
+border-radius: 16.2991px;
+border: 0px;
+}
+
+.number {
+    color: #FF33AD;
+}
+
+  */
+
+  
